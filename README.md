@@ -29,4 +29,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/2559swati/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/2559swati/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Hash Table
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/2559swati/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/2559swati/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/2559swati/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/2559swati/LeetCode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
