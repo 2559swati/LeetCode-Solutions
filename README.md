@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2559swati/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0704-binary-search](https://github.com/2559swati/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/2559swati/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/2559swati/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2559swati/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/2559swati/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
